@@ -1,12 +1,14 @@
-
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.digits {
+    background-color: rgb(98, 43, 226);
+    color: aliceblue;
+    width: 70px;
+    height: 70px;
+    font-size: 30px;
+    border-radius: 20%;
+    border: none;
+}
+.show-result {
+    width: 60%;
+    font-size: 1.5em;
+    border: 1px solid black
+}
